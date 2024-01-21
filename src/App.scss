@@ -1,0 +1,29 @@
+body {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #decff0, #cbdaf3);
+}
+
+.weatherHomePage {
+    display: block;
+    text-align: left;
+    .App-header {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 40px;
+        margin-top: 70px;
+        .weatherButton {
+            margin-left: 20px;
+        }
+        .chartButton {
+            margin-left: 20px;
+    
+        }
+        .heatIndexButton {
+            margin-left: 20px;
+    
+        }
+    }
+}
+
+

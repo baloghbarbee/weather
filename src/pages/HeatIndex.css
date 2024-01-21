@@ -1,0 +1,41 @@
+.heatIndex {
+  margin-left: 30px;
+  margin-top: 40px;
+  display: block;
+  width: 600px;
+}
+.heatIndex .inputPart {
+  display: flex;
+  margin: 20px;
+}
+.heatIndex .inputPart input {
+  font-size: 20px;
+}
+.heatIndex .text {
+  margin-right: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.heatIndex p {
+  font-weight: bold;
+}
+.heatIndex .switch {
+  display: flex;
+  margin: 20px;
+}
+.heatIndex .calculate {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  padding: 20px;
+}
+.heatIndex .calculate button {
+  font-size: 15px;
+  font-weight: bold;
+}
+.heatIndex p {
+  margin-left: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}/*# sourceMappingURL=HeatIndex.css.map */

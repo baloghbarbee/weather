@@ -1,0 +1,43 @@
+.heatIndex {
+    margin-left: 30px;
+    margin-top: 40px;
+    display: block;
+    width: 600px;
+    .inputPart {
+        display: flex;
+        margin: 20px;
+        input {
+            font-size: 20px;
+        }
+    }
+    .text {
+        margin-right: 20px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    p {
+        font-weight: bold;
+    }
+    .switch {
+      display: flex;
+      margin: 20px;
+    }
+    .calculate {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 20px;
+        padding: 20px;
+        button {
+            font-size: 15px;
+            font-weight: bold;
+        }
+    }
+    p {
+        margin-left: 20px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+}
+
+
