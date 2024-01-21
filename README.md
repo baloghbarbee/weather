@@ -1,3 +1,9 @@
+# Screenshots from the app
+<img width="1434" alt="Screenshot 2024-01-21 at 18 23 04" src="https://github.com/baloghbarbee/weather/assets/86192114/8c38284f-580f-419b-82a6-21629fb2702b">
+<img width="1424" alt="Screenshot 2024-01-21 at 18 23 15" src="https://github.com/baloghbarbee/weather/assets/86192114/742fac38-b3c0-4a07-ab8a-f46a3e201cb3">
+<img width="1423" alt="Screenshot 2024-01-21 at 18 23 36" src="https://github.com/baloghbarbee/weather/assets/86192114/80d2882b-b88d-4c8d-b8d5-d1b3258aa3b4">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
